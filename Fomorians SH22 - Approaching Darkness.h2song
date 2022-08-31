@@ -13,7 +13,7 @@
  <playbackTrackFilename></playbackTrackFilename>
  <playbackTrackEnabled>false</playbackTrackEnabled>
  <playbackTrackVolume>0</playbackTrackVolume>
- <action_mode>0</action_mode>
+ <action_mode>1</action_mode>
  <mode>song</mode>
  <pan_law_type>RATIO_STRAIGHT_POLYGONAL</pan_law_type>
  <pan_law_k_norm>1.33333</pan_law_k_norm>
@@ -324,6 +324,61 @@
     <gain>1</gain>
     <layer>
      <filename>snare ghost 2 (not real).wav</filename>
+     <ismodified>false</ismodified>
+     <smode>forward</smode>
+     <startframe>0</startframe>
+     <loopframe>0</loopframe>
+     <loops>0</loops>
+     <endframe>0</endframe>
+     <userubber>0</userubber>
+     <rubberdivider>1</rubberdivider>
+     <rubberCsettings>4</rubberCsettings>
+     <rubberPitch>1</rubberPitch>
+     <min>0</min>
+     <max>1</max>
+     <gain>1</gain>
+     <pitch>0</pitch>
+    </layer>
+   </instrumentComponent>
+  </instrument>
+  <instrument>
+   <id>6</id>
+   <name>Small tom rim</name>
+   <drumkit>BFS drumming</drumkit>
+   <drumkitLookup>2</drumkitLookup>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <isSoloed>false</isSoloed>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <applyVelocity>true</applyVelocity>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <pitchOffset>0</pitchOffset>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>87</midiOutNote>
+   <isHihat>-1</isHihat>
+   <lower_cc>0</lower_cc>
+   <higher_cc>127</higher_cc>
+   <instrumentComponent>
+    <component_id>0</component_id>
+    <gain>1</gain>
+    <layer>
+     <filename>small tom click.wav</filename>
      <ismodified>false</ismodified>
      <smode>forward</smode>
      <startframe>0</startframe>
@@ -2364,10 +2419,63 @@
   <pattern>
    <name>Pattern 9</name>
    <category>not_categorized</category>
-   <size>192</size>
+   <size>96</size>
    <denominator>4</denominator>
    <info></info>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 10</name>
@@ -2375,33 +2483,246 @@
    <size>192</size>
    <denominator>4</denominator>
    <info></info>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
  </patternList>
  <virtualPatternList/>
  <patternSequence>
   <group>
+   <patternID>Pattern 9</patternID>
+  </group>
+  <group>
    <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>High Tom 1b</patternID>
+  </group>
+  <group>
    <patternID>bass 1a</patternID>
    <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+  </group>
+  <group>
+   <patternID>Bass 1b</patternID>
+   <patternID>Low Tom 1b</patternID>
+   <patternID>High Tom 1b</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 9</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
    <patternID>Snare 1a</patternID>
   </group>
   <group>
-   <patternID>High Tom 1a</patternID>
    <patternID>bass 1a</patternID>
    <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
    <patternID>Snare 1b</patternID>
   </group>
   <group>
-   <patternID>High Tom 1a</patternID>
    <patternID>bass 1a</patternID>
    <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
+   <patternID>Bass 1b</patternID>
+   <patternID>Low Tom 1b</patternID>
+   <patternID>High Tom 1b</patternID>
+   <patternID>Snare 1c</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1b</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
+   <patternID>Bass 1b</patternID>
+   <patternID>Low Tom 1b</patternID>
+   <patternID>High Tom 1b</patternID>
+   <patternID>Snare 1c</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1b</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
    <patternID>Snare 1a</patternID>
   </group>
   <group>
    <patternID>High Tom 1b</patternID>
+   <patternID>Snare 1c</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1b</patternID>
+  </group>
+  <group>
+   <patternID>bass 1a</patternID>
+   <patternID>Low Tom 1a</patternID>
+   <patternID>High Tom 1a</patternID>
+   <patternID>Snare 1a</patternID>
+  </group>
+  <group>
    <patternID>Bass 1b</patternID>
    <patternID>Low Tom 1b</patternID>
+   <patternID>High Tom 1b</patternID>
    <patternID>Snare 1c</patternID>
   </group>
  </patternSequence>
@@ -2431,7 +2752,12 @@
    <volume>0.0</volume>
   </fx>
  </ladspa>
- <BPMTimeLine/>
+ <BPMTimeLine>
+  <newBPM>
+   <BAR>8</BAR>
+   <BPM>60</BPM>
+  </newBPM>
+ </BPMTimeLine>
  <timeLineTag/>
  <automationPaths>
   <path adjust="velocity"/>
