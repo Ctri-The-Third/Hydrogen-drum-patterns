@@ -34,7 +34,7 @@
    <drumkit>BFS drumming</drumkit>
    <drumkitLookup>2</drumkitLookup>
    <volume>1</volume>
-   <isMuted>true</isMuted>
+   <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -89,7 +89,7 @@
    <drumkit>BFS drumming</drumkit>
    <drumkitLookup>2</drumkitLookup>
    <volume>1</volume>
-   <isMuted>true</isMuted>
+   <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -1903,7 +1903,6 @@
   </group>
   <group>
    <patternID>Pattern 7</patternID>
-   <patternID>Pattern 1b.5</patternID>
   </group>
  </patternSequence>
  <ladspa>
