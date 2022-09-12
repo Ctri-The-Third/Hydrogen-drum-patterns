@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>1.1.1-'c845af2f'</version>
- <bpm>60</bpm>
+ <bpm>49</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -603,6 +603,67 @@
    <denominator>4</denominator>
    <info></info>
    <noteList/>
+  </pattern>
+  <pattern>
+   <name>Pattern 9</name>
+   <category>not_categorized</category>
+   <size>96</size>
+   <denominator>4</denominator>
+   <info></info>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <probability>1</probability>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>-------------</name>
@@ -2859,67 +2920,6 @@
    <denominator>4</denominator>
    <info></info>
    <noteList/>
-  </pattern>
-  <pattern>
-   <name>Pattern 9</name>
-   <category>not_categorized</category>
-   <size>96</size>
-   <denominator>4</denominator>
-   <info></info>
-   <noteList>
-    <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <probability>1</probability>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>6</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>24</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <probability>1</probability>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>6</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <probability>1</probability>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>6</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>72</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <probability>1</probability>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>6</instrument>
-     <note_off>false</note_off>
-    </note>
-   </noteList>
   </pattern>
   <pattern>
    <name>------------</name>
@@ -8205,9 +8205,9 @@
   </pattern>
   <pattern>
    <name>ALL 1B</name>
-   <virtual>Snare 1b</virtual>
    <virtual>bass 1a</virtual>
    <virtual>Low Tom 1a</virtual>
+   <virtual>Snare 1b</virtual>
    <virtual>High Tom 1b</virtual>
   </pattern>
   <pattern>
@@ -8216,24 +8216,24 @@
   </pattern>
   <pattern>
    <name>ALL 1D</name>
-   <virtual>Snare 1c</virtual>
    <virtual>Low Tom 1b</virtual>
-   <virtual>High Tom 1b</virtual>
    <virtual>Bass 1b</virtual>
+   <virtual>High Tom 1b</virtual>
+   <virtual>Snare 1c</virtual>
   </pattern>
   <pattern>
    <name>ALL 2A</name>
    <virtual>High Tom 2a</virtual>
+   <virtual>Low Tom 2a</virtual>
    <virtual>Snare 2a</virtual>
    <virtual>Bass 2a </virtual>
-   <virtual>Low Tom 2a</virtual>
   </pattern>
   <pattern>
    <name>ALL 2B</name>
-   <virtual>Bass 2b</virtual>
    <virtual>High Tom 2a</virtual>
-   <virtual>Low Tom 2a</virtual>
+   <virtual>Bass 2b</virtual>
    <virtual>Snare 2b</virtual>
+   <virtual>Low Tom 2a</virtual>
   </pattern>
   <pattern>
    <name>ALL 2C</name>
@@ -8241,24 +8241,24 @@
   </pattern>
   <pattern>
    <name>ALL 2D</name>
-   <virtual>Bass 2c</virtual>
-   <virtual>High Tom 2b</virtual>
    <virtual>Low Tom 2b</virtual>
+   <virtual>High Tom 2b</virtual>
+   <virtual>Bass 2c</virtual>
    <virtual>Snare 2c</virtual>
   </pattern>
   <pattern>
    <name>ALL 3A</name>
-   <virtual>Low Tom 3a</virtual>
-   <virtual>Snare 3a</virtual>
    <virtual>Bass 3a</virtual>
    <virtual>High Tom 3a</virtual>
+   <virtual>Snare 3a</virtual>
+   <virtual>Low Tom 3a</virtual>
   </pattern>
   <pattern>
    <name>ALL 3B</name>
-   <virtual>High Tom 3b</virtual>
    <virtual>Snare 3b</virtual>
    <virtual>Bass 3a</virtual>
    <virtual>Low Tom 3b</virtual>
+   <virtual>High Tom 3b</virtual>
   </pattern>
   <pattern>
    <name>ALL 3C</name>
@@ -8266,218 +8266,24 @@
   </pattern>
   <pattern>
    <name>ALL 3D</name>
-   <virtual>Low Tom 3c</virtual>
    <virtual>Snare 3c</virtual>
+   <virtual>Low Tom 3c</virtual>
    <virtual>Bass 3b</virtual>
    <virtual>High Tom 3c</virtual>
   </pattern>
  </virtualPatternList>
  <patternSequence>
   <group>
-   <patternID>Pattern 9</patternID>
+   <patternID>High Tom 2a</patternID>
   </group>
   <group>
-   <patternID>High Tom 1a</patternID>
+   <patternID>High Tom 2a</patternID>
   </group>
   <group>
-   <patternID>High Tom 1b</patternID>
+   <patternID>High Tom 2a</patternID>
   </group>
   <group>
-   <patternID>High Tom 1a</patternID>
-  </group>
-  <group>
-   <patternID>High Tom 1b</patternID>
-  </group>
-  <group>
-   <patternID>Low Tom 1a</patternID>
-   <patternID>High Tom 1a</patternID>
-  </group>
-  <group>
-   <patternID>Low Tom 1a</patternID>
-   <patternID>High Tom 1b</patternID>
-  </group>
-  <group>
-   <patternID>Low Tom 1a</patternID>
-   <patternID>High Tom 1a</patternID>
-  </group>
-  <group>
-   <patternID>Low Tom 1b</patternID>
-   <patternID>High Tom 1b</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 9</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2D</patternID>
-   <patternID>-------------</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 3D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 2D</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1A</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1B</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1C</patternID>
-  </group>
-  <group>
-   <patternID>ALL 1D</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 9</patternID>
+   <patternID>High Tom 2b</patternID>
   </group>
  </patternSequence>
  <ladspa>
