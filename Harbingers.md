@@ -1,20 +1,36 @@
-| Rhythym name        | Pat 1 | Pat 2 | Pat 3 | Break | Fancy arrangements |  
-| ------------        | ----- | ----- | ----- | ----- | ------------------ |
-| Kitten    | 🟢 | 🟢 |  |  |  |
-| Trouser Snake | | | | |
-| Hammer of the gods | 🔴 | | | | 
-| Thrillseeker | 🔴 | | | |
-| Winter Call | 🔴 | | | |  
-
-
-Winter Call 
+| Rhythym name   | Category       | Pat 1 | Pat 2 | Pat 3 | Pat 5(?) |  Break | anything fancy we often do (broken etc...) |  
+| ------------  | ---- | ----- | ----- | ----- | ----- | ----- | ------------------ |
+| Reprecussions | **Techno** | ❓ 
+| Riders <br/>((Horse)) | **Techno** | 🔴 | ❓ | ❓ 
+| Amen Break| **Backbeat** | 🟡 | 
+| Diesel blood | **Backbeat** | 🟢 | 🔴 | 
+| Gojira (unison) | **Backbeat** | 🟡
+| Ratamahatta | **Backbeat** | 🟢 
+| Trouser Snake | **Backbeat** | 🟢 | | |
+| Bangra | **Weird 5s** | 🔴 |
+| Five calls | **Weird 5s** | 🔴 |  ❓ |  | |  ❓ |  
+| 5 arm | **Weird 5s** | ❓ | 
+| Swagger 5 | **Weird 5s** | 🟡
+| Beef | **sixes** | ❓ | 
+| Death | **sixes** | ❓ | 
+| Pet the Kitten   | **sixes**  | 🟢 | 🟢 |  |  |  |
+| Rainbow  break | **sixes**  | 🟢 | 
+| Vajungle | **sixes** | 🏮 | 
+| Drummer Cake | **D & B** | 🔴 | 🟡 | 🟡 |    ❓ | 🟡 |  
+| Humps | **D & B**  | ❓
+| Thrillseeker (unison) | **D & B**  | 🟡
+| Hammer of the Gods | **Metal** | 🟡
+| Motorik | **Metal** | ❓ | ❓
+| Eyeless| **Metal** | ❓ | 
+| This shit will fuck you up <br/>((noisy / London)) | **Metal** | 🟡  | | | | 🔴
+| Winter Call | **set end** |  🟢 | | | |  
 
 
 ```
    "HAR-BIN-GEEEERS"
   | 1..2..3..4..1..2..3..4..1..2..3..4..1..2..3..4..    
-1 |             O.O.OOO.OOO.O.OOO.OOO.OOOOO.OOO.OOO.
-2 | L.L.LR.R.R.RL.L.L23.OOO.1.OOO.OOO.OOOOO.OOO.OOO.
+1 | HAR-BINGERS 1.2.123.123.1.123.123.12345.123.123.
+2 | L.L.LR.R.R.R1.2.123.123.1.123.123.12345.123.123.
 3 | L.L.LR.R.R.RL.L.LR.R.R.RL.L.LR.R.R.RL.L.LR.R.R.R
   | O
   ```
