@@ -15,7 +15,7 @@
 | Death | **sixes** | ❓ | 
 | Pet the Kitten   | **sixes**  | 🟢 | 🟢 |  |  |  |
 | Rainbow  break | **sixes**  | 🟢 | 
-| Vajungle | **sixes** | 🏮 | 
+| 🎯 Vajungle | **sixes** | 🔴 | 
 | Drummer Cake | **D & B** | 🔴 | 🟡 | 🟡 |    ❓ | 🟡 |  
 | Humps | **D & B**  | ❓
 | Thrillseeker (unison) | **D & B**  | 🟡
