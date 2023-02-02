@@ -1,28 +1,29 @@
-| Rhythym name   | Category       | Pat 1 | Pat 2 | Pat 3 | Pat 5(?) |  Break | anything fancy we often do (broken etc...) |  
-| ------------  | ---- | ----- | ----- | ----- | ----- | ----- | ------------------ |
+| Rhythym name   | Category       | Pat 1 | Pat 2 | Pat 3 | Pat 5(?) |  Break 
+| ------------  | ---- | ----- | ----- | ----- | ----- | ----- 
 | Reprecussions | **Techno** | ❓ 
-| Riders <br/>((Horse)) | **Techno** | 🔴 | ❓ | ❓ 
+| Riders <br/>((Horse)) | **Techno** | 🟡 | ❓ | ❓ 
 | Amen Break| **Backbeat** | 🟡 | 
 | Diesel blood | **Backbeat** | 🟢 | 🔴 | 
 | Gojira (unison) | **Backbeat** | 🟡
 | Ratamahatta | **Backbeat** | 🟢 
 | Trouser Snake | **Backbeat** | 🟢 | | |
-| Bangra | **Weird 5s** | 🔴 |
-| Five calls | **Weird 5s** | 🔴 |  ❓ |  | |  ❓ |  
+| Bangra | **Weird 5s** | 🟡 |
+| Five calls | **Weird 5s** | 🟡 |  🟢 |  | |  🟡 |  
 | 5 arm | **Weird 5s** | ❓ | 
 | Swagger 5 | **Weird 5s** | 🟡
-| Beef | **sixes** | ❓ | 
+| Beef <br/> ((handshake))| **sixes** | 🔴 | 
 | Death | **sixes** | ❓ | 
+| 🎯 Monster | **sixes** | 🟡 | 
 | Pet the Kitten   | **sixes**  | 🟢 | 🟢 |  |  |  |
 | Rainbow  break | **sixes**  | 🟢 | 
-| 🎯 Vajungle | **sixes** | 🔴 | 
-| Drummer Cake | **D & B** | 🔴 | 🟡 | 🟡 |    ❓ | 🟡 |  
+| 🎯 Vajungle | **sixes** | 🟡 | 
+| Drummer Cake | **D & B** | 🔴 | 🟡 | 🟡 |    ❓ | 🟢 |  
 | Humps | **D & B**  | ❓
-| Thrillseeker (unison) | **D & B**  | 🟡
+| Thrillseeker  | **D & B**  | 🟡
 | Hammer of the Gods | **Metal** | 🟡
-| Motorik | **Metal** | ❓ | ❓
+| 🎯 Motorik | **Metal** | 🔴 | 🔴
 | Eyeless| **Metal** | ❓ | 
-| This shit will fuck you up <br/>((noisy / London)) | **Metal** | 🟡  | | | | 🔴
+| This shit will fuck you up <br/>((noisy / London)) | **Metal** | 🟢  | | | | 🟢
 | Winter Call | **set end** |  🟢 | | | |  
 
 
