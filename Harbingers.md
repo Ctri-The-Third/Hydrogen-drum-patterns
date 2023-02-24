@@ -9,7 +9,6 @@
 | Trouser Snake | **Backbeat** | 🟢 | | |
 | Bangra | **Weird 5s** | 🟡 |
 | Five calls | **Weird 5s** | 🟡 |  🟢 |  | |  🟡 |  
-| 5 arm | **Weird 5s** | ❓ | 
 | Swagger 5 | **Weird 5s** | 🟡
 | Beef <br/> ((handshake))| **sixes** | 🔴 | 
 | Death | **sixes** | ❓ | 
