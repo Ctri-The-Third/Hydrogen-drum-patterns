@@ -1,12 +1,12 @@
-| Rhythym name        | Pat 1 | Pat 2 | Pat 3 | Break | Fancy arrangements |  
+| Rhythym name <br/> (hydrogen?)        | Pat 1 | Pat 2 | Pat 3 | Break | Fancy arrangements |  
 | ------------        | ----- | ----- | ----- | ----- | ------------------ |
-| Express             | 🟡   |  🔴   |       | 🟡 
-| Smol Beast          | 🔴   |  🔴   |       | 🔴   |
-| Trickster           | 
-| Nosebreak           |
-| Colin #2            | 
-| Claire #2           | 
-| Liam #2             | 
+| 🌒 Express             | 🟡   |  🔴   |       | 🟡 
+| 🌑 Smol Beast          | 🔴   |  🔴   |       | 🔴   |
+| 🌔 Trickster           | 🔴   |  🔴   | 🔴   | 🔴
+| 🌑 Nosebreak           | 🟡
+| 🌑 Colin #2            | 
+| 🌑 Claire #2           | 
+| 🌑 Liam #2             | 
 
 
 
