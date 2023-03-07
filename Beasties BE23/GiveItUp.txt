@@ -1,0 +1,84 @@
+Give It Up
+==========
+
+Djembe
+------
+
+Pattern 1
+
+|1.&.2.&.3.&.4.&.|
+|O OO  OS  O ttt | A
+|O OO  OS  O ttt | A
+|O OO  OS  O ttt | A
+|O OO  OS SO OOS | B
+
+Pattern 2
+
+|1.&.2.&.3.&.4.&.|
+|O ttttttttO S   | A
+|O ttttttttO S   | A
+|O ttttttttO S tt| B
+|O O S ttttO SO S| C
+
+Bass
+----
+
+Pattern 1
+
+|1.&.2.&.3.&.4.&.|
+|O   X OO  O X O | A
+|O   X OO  O X O | A
+|O   X OO  O X O | A
+|OO  X OO OO X O | B
+
+Pattern 2
+
+|1.&.2.&.3.&.4.&.|
+|OO OX O   O X   | A
+|OO OX O   O X   | A
+|OO OX O   O X   | A
+|OO OX O OO OX O | B
+
+Snare
+-----
+
+Pattern 1
+
+|1.&.2.&.3.&.4.&.|
+|....X..X....XX..| A
+|....X..X....XX..| A
+|....X..X....XX..| A
+|....X..X.xxxxxX.| B
+
+Pattern 2
+
+|1.&.2.&.3.&.4.&.|
+|....X......XX...| A
+|....X......XX...| A
+|....X......XX...| A
+|....X......XX.XX| B
+
+Shaker
+
+Pattern 1
+
+|1.&.2.&.3.&.4.&.|
+|X XXX XX     XXX| A
+|X XXX XX     XXX| A
+|X     XXX    XXX| B
+|X     XXX    XXX| B
+
+Pattern 2
+
+|1.&.2.&.3.&.4.&.|
+|X  XX  XXX  X . | A
+|X  XX  XXX  X . | A
+|X  XX  XXX  X . | A
+|XX XX XX XX X . | B
+
+
+
+Break (all)
+
+|1.&.2.&.3.&.4.&.|
+|OOOOO OO O OO   |
