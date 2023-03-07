@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>1.1.1-'c845af2f'</version>
- <bpm>70</bpm>
+ <bpm>50</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -3390,15 +3390,15 @@
   <pattern>
    <name>all 1a</name>
    <virtual>shaker 1a</virtual>
-   <virtual>Djembe 1a</virtual>
-   <virtual>snare 1</virtual>
    <virtual>Bass 1a</virtual>
+   <virtual>snare 1</virtual>
+   <virtual>Djembe 1a</virtual>
   </pattern>
   <pattern>
    <name>all 1b</name>
-   <virtual>bass 1b</virtual>
    <virtual>Djembe 1b</virtual>
    <virtual>snare 1</virtual>
+   <virtual>bass 1b</virtual>
   </pattern>
   <pattern>
    <name>all 1c</name>
@@ -3407,45 +3407,51 @@
   </pattern>
   <pattern>
    <name>all 1d</name>
-   <virtual>snare 1</virtual>
-   <virtual>Djembe 1c</virtual>
    <virtual>bass 1c</virtual>
+   <virtual>Djembe 1c</virtual>
+   <virtual>snare 1</virtual>
   </pattern>
   <pattern>
    <name>all 2a</name>
-   <virtual>Shaker 2a</virtual>
    <virtual>bass 2a</virtual>
-   <virtual>Djembe 2a</virtual>
    <virtual>snare 2</virtual>
+   <virtual>Djembe 2a</virtual>
+   <virtual>Shaker 2a</virtual>
   </pattern>
   <pattern>
    <name>all 2b</name>
    <virtual>bass 2a</virtual>
    <virtual>Djembe 2b</virtual>
-   <virtual>Shaker 2b</virtual>
    <virtual>snare 2</virtual>
+   <virtual>Shaker 2b</virtual>
   </pattern>
   <pattern>
    <name>all 2c</name>
-   <virtual>Shaker 2a</virtual>
    <virtual>bass 2a</virtual>
-   <virtual>Djembe 2a</virtual>
    <virtual>snare 2</virtual>
+   <virtual>Djembe 2a</virtual>
+   <virtual>Shaker 2a</virtual>
   </pattern>
   <pattern>
    <name>all 2d</name>
+   <virtual>bass 2b</virtual>
+   <virtual>snare 2</virtual>
    <virtual>Djembe 2c</virtual>
    <virtual>Shaker 2b</virtual>
-   <virtual>snare 2</virtual>
-   <virtual>bass 2b</virtual>
   </pattern>
  </virtualPatternList>
  <patternSequence>
   <group>
-   <patternID>djembe b</patternID>
-   <patternID>bass b</patternID>
-   <patternID>snare b</patternID>
-   <patternID>shaker b</patternID>
+   <patternID>all 2a</patternID>
+  </group>
+  <group>
+   <patternID>all 2b</patternID>
+  </group>
+  <group>
+   <patternID>all 2c</patternID>
+  </group>
+  <group>
+   <patternID>all 2d</patternID>
   </group>
  </patternSequence>
  <ladspa>
