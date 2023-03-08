@@ -2,16 +2,17 @@
 | ------------        | ----- | ----- | ----- | ----- | ------------------ |
 | 🌒 Express             | 🟡   |  🔴   |       | 🟡 
 | 🌑 Smol Beast          | 🔴   |  🔴   |       | 🔴   |
-| 🌔 Trickster           | 🔴   |  🔴   | 🔴   | 🔴
+| 🌔 **Trickster** 🎯           | 🔴   |  🔴   | 🔴   | 🔴
 | 🌑 Nosebreak           | 🟡
-| 🌑 Colin #2            | 
-| 🌑 Claire #2           | 
-| 🌑 Liam #2             | 
+| 🌕 Give it Up            | ⚫ | ⚫ |
+| 🌑 Raised By Wolves    | ⚫   |    |          | ⚫ |⚫ (intro) 
+| 🌑 Beat about the Bush | 
 
 
 
 ```
 Express
+
     |  Pattern 1             Pattern 2           Break
     | 1.&.2.&.3.&.4.&.     |1.&.2.&.3.&.4.&.    1.&.2.&.3.&.4.&.    
    A| O t S      tS St    A|Ott  Ott    Ott     SS OO SS OO StO
@@ -25,6 +26,7 @@ Express
 
 ``` 
 Smol Beast 
+
   |   Pattern 1                     Pattern 2                      Break
   | 1&a2&a3&a4&a5&a6&a7&a8&a    | 1&a2&a3&a4&a5&a6&a7&a8&a     | 1&a2&a3&a4&a5&a6&a7&a8&a                                 
  A| O.SOttS.tO.tO.ttttttt      A| O-S--S--S--SO-S--tS-SO-S    A| O.ttttO..O..O.tttSOttttS  
@@ -37,6 +39,7 @@ Smol Beast
 
 ``` 
 Trickster
+
     |  Pattern 1                        Pattern 2           
     | 1.&. | 2.&. | 3.&. | 4.&. |     | 1.&. | 2.&. | 3.&. | 4.&. |     
    A| OtSO |  tS  | S  t | O O  |     | OtSc | + t  | SttS |  ttt |   
@@ -53,4 +56,24 @@ Trickster
   
 
 ```
+``` 
+Raised by wolves
 
+|1 & 2 & 3 & 4 & 5 & |    |1 & 2 & 3 & 4 & 5 & |    |1 & 2 & 3 & 4 & 5 & |    
+|O - - - - - - - O - |    |O t t S - t O t S t |    |t t t S - t t t S - |    
+
+
+|1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & |    |1 & 2 & 3 & 4 & 5 & 6 & 7 & |    
+|O t t S - t O t t S - t O t S t |    |t t t S - t t t S - S S S - |    
+
+
+```
+``` 
+Give it Up
+
+ |1.&.2.&.3.&.4.&.|     |1.&.2.&.3.&.4.&.|       |1.&.2.&.3.&.4.&.|
+A|O OO  OS  O ttt |    A|O ttttttttO S   |      |OOOOO OO O OO   |
+A|O OO  OS  O ttt |    A|O ttttttttO S   | 
+A|O OO  OS  O ttt |    B|O ttttttttO S tt| 
+B|O OO  OS SO OOS |    C|O O S ttttO SO S| 
+```
