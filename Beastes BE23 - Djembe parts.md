@@ -1,13 +1,13 @@
 | Rhythym name <br/> (hydrogen?)        | Pat 1 | Pat 2 | Pat 3 | Break | Fancy arrangements |  
 | ------------        | ----- | ----- | ----- | ----- | ------------------ |
-| 🌒 Express             | 🟡   |  🔴   |       | 🟡 
+| 🌒 Express             | 🟢   |  🟢   |       | 🟢 
 | 🌑 Smol Beast          | 🔴   |  🔴   |       | 🔴   |
-| 🌔 **Trickster** 🎯           | 🔴   |  🔴   | 🔴   | 🔴
+| 🌔 **Trickster** 🎯    | 🔴   |  🟡   | 🔴   | 🔴
 | 🌑 Nosebreak           | 🟡
-| 🌕 Give it Up            | ⚫ | ⚫ |
-| 🌑 Raised By Wolves    | ⚫   |    |          | ⚫ |⚫ (intro) 
-| 🌑 Beat about the Bush | 
-
+| 🌕 Give it Up            | 🔴 | 🔴 |
+| 🌑 Raised By Wolves    | 💛   | 💛  |          | 🔴 |🟡 (intro) 
+| 🌒 **Beat about the Bush** 🎯 | 💛  | ⚫ |  ⚫ |   🟡
+| 🌑 Hellaswalla       | 🟡  | 🟡 | 🟡  
 
 
 ```
@@ -40,25 +40,23 @@ Smol Beast
 ``` 
 Trickster
 
-    |  Pattern 1                        Pattern 2           
-    | 1.&. | 2.&. | 3.&. | 4.&. |     | 1.&. | 2.&. | 3.&. | 4.&. |     
-   A| OtSO |  tS  | S  t | O O  |     | OtSc | + t  | SttS |  ttt |   
-   B| OtSO |  tO  | S    | t tt |     | OtSc | + O  |      | t tt |
-   A| OtSO |  tS  | S  t | O O  |     | OtSc | + t  | SttS |  ttt |
-   C| OtSS |  SO  |      |   tt |     | OttS |  tS  |    c | +    |
+    |  Pattern 1                        Pattern 2
+      "                  "I'malittletric-ster"           
+    | 1.&.2.&.3.&.4.&.   1.&.2.&.3.&.4.&. |
+   A| OtSO tS S  tO O    OtSc+ t SttS ttt |
+   B| OtSO tO S   t tt   OtSc+ O     t tt |
+   A| OtSO tS S  tO O    OtSc+ t SttS ttt |
+   C| OtSS SO       tt   OttS tS    c+    |
 
 
-        Pattern 3                                Break
-    | 1 . & . | 2 . & .  | 3 . & . | 4 . & .  |     | 1.&. | 2.&. | 3.&. | 4.&. |       
- Ax7| O   t O |   t O    |     O   | S        |     | O SO | O S  |  tS  | S    |
-   B| O   S S |   S S    |     ttt | S__S__S  |     
+
 
   
 
 ```
 ``` 
 Raised by wolves
-
+                          "Iamawolf  Imgetnhugr"
 |1 & 2 & 3 & 4 & 5 & |    |1 & 2 & 3 & 4 & 5 & |    |1 & 2 & 3 & 4 & 5 & |    
 |O - - - - - - - O - |    |O t t S - t O t S t |    |t t t S - t t t S - |    
 
@@ -77,3 +75,18 @@ A|O OO  OS  O ttt |    A|O ttttttttO S   |
 A|O OO  OS  O ttt |    B|O ttttttttO S tt| 
 B|O OO  OS SO OOS |    C|O O S ttttO SO S| 
 ```
+
+``` 
+Beat about the bush
+
+pattern 1
+1e&a|2e&a|3e&a|4e&a|5e&a|6e&a|7e&a|8e&a|
+f..f|..S.|tS.S|S.O.|S..S|..S.|S.tt|O.S.|
+f..f|..S.|tttt|t.O.|S..S|..S.|S.tt|O.S.|
+f..f|..S.|tS.S|S.O.|S..S|..S.|S.tt|O.S.|
+....|....|....|....|....|..S.|S.tt|O.S.|
+
+        Pattern 3                                Break
+    | 1 . & .2 . & . 3 . & .4 . & .  |  1.&.2.&.3.&.4.&. |       
+ Ax7| O   t O  t O       O  S        |  O SOO S  tS S    |
+   B| O   S S  S S       tttS__S__S  |     
