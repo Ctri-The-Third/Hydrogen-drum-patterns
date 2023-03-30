@@ -3389,16 +3389,16 @@
  <virtualPatternList>
   <pattern>
    <name>all 1a</name>
-   <virtual>snare 1</virtual>
+   <virtual>Bass 1a</virtual>
    <virtual>shaker 1a</virtual>
    <virtual>Djembe 1a</virtual>
-   <virtual>Bass 1a</virtual>
+   <virtual>snare 1</virtual>
   </pattern>
   <pattern>
    <name>all 1b</name>
-   <virtual>snare 1</virtual>
-   <virtual>Djembe 1b</virtual>
    <virtual>bass 1b</virtual>
+   <virtual>Djembe 1b</virtual>
+   <virtual>snare 1</virtual>
   </pattern>
   <pattern>
    <name>all 1c</name>
@@ -3408,63 +3408,39 @@
   <pattern>
    <name>all 1d</name>
    <virtual>Djembe 1c</virtual>
-   <virtual>snare 1</virtual>
    <virtual>bass 1c</virtual>
+   <virtual>snare 1</virtual>
   </pattern>
   <pattern>
    <name>all 2a</name>
    <virtual>snare 2</virtual>
    <virtual>Shaker 2a</virtual>
-   <virtual>Djembe 2a</virtual>
    <virtual>bass 2a</virtual>
+   <virtual>Djembe 2a</virtual>
   </pattern>
   <pattern>
    <name>all 2b</name>
-   <virtual>snare 2</virtual>
-   <virtual>Djembe 2b</virtual>
    <virtual>Shaker 2b</virtual>
+   <virtual>Djembe 2b</virtual>
+   <virtual>snare 2</virtual>
    <virtual>bass 2a</virtual>
   </pattern>
   <pattern>
    <name>all 2c</name>
    <virtual>snare 2</virtual>
    <virtual>Shaker 2a</virtual>
-   <virtual>Djembe 2a</virtual>
    <virtual>bass 2a</virtual>
+   <virtual>Djembe 2a</virtual>
   </pattern>
   <pattern>
    <name>all 2d</name>
-   <virtual>snare 2</virtual>
    <virtual>Shaker 2b</virtual>
-   <virtual>Djembe 2c</virtual>
    <virtual>bass 2b</virtual>
+   <virtual>snare 2</virtual>
+   <virtual>Djembe 2c</virtual>
   </pattern>
  </virtualPatternList>
  <patternSequence>
-  <group>
-   <patternID>all 1a</patternID>
-  </group>
-  <group>
-   <patternID>all 1b</patternID>
-  </group>
-  <group>
-   <patternID>all 1c</patternID>
-  </group>
-  <group>
-   <patternID>all 1d</patternID>
-  </group>
-  <group>
-   <patternID>all 1a</patternID>
-  </group>
-  <group>
-   <patternID>all 1b</patternID>
-  </group>
-  <group>
-   <patternID>all 1c</patternID>
-  </group>
-  <group>
-   <patternID>all 1d</patternID>
-  </group>
   <group>
    <patternID>all 1a</patternID>
   </group>

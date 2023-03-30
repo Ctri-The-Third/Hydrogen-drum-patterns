@@ -1,14 +1,14 @@
-| Rhythym name <br/> (hydrogen?)        | Pat 1 | Pat 2 | Pat 3 | Break | Fancy arrangements |  
+| Rhythym name <br/> (hydrogen?)        | Pat 1 | Pat 2 | Pat 3 | Break/4 | Fancy arrangements |  
 | ------------        | ----- | ----- | ----- | ----- | ------------------ |
 | 🌒 Express             | 🟢   |  🟢   |       | 🟢 
-| 🌑 Smol Beast          | 🔴   |  🔴   |       | 🔴   |
-| 🌔 **Trickster** 🎯    | 🔴   |  🟡   | 🔴   | 🔴
-| 🌑 Nosebreak           | 🟡
-| 🌕 Give it Up            | 🔴 | 🔴 |
-| 🌑 Raised By Wolves    | 💛   | 💛  |          | 🔴 |🟡 (intro) 
-| 🌒 **Beat about the Bush** 🎯 | 💛  | ⚫ |  ⚫ |   🟡
-| 🌑 Hellaswalla       | 🟡  | 🟡 | 🟡  
-
+| 🌑 Smol Beast          | 🟡   |  🔴   |       | 🟡   |
+| 🌔 **Trickster** 🎯    | 🟡   |  🟡   | 🔴   | 🔴
+| 🌑 Nosebreak           | 🟢
+| 🌕 Give it Up            | 🟡 | 🔴 |  |       | 🔴 |
+| 🌑 Raised By Wolves    | 🟢   | 🟢  |          | 🟢 |🟡 (intro) 
+| 🌒 **Beat about the Bush** 🎯 | 💛  | 🔴 |  🟡 |   🟡
+| 🌑 **Hellaswalla** 🎯  | 🟡  | 🟡 | 🔴 |  🟡 | 
+| 🌑 Hot Potato          | 🔴 | 🟡 | 
 
 ```
 Express
